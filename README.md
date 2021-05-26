@@ -1,8 +1,3 @@
-# Where do I put my files?
-
-You should store all of your Java source files in the `src` directory, or subdirectories within the `src` directory.
-
-You should store any graphics files (e.g. `.jpg`) or other non source-code resources in the `resources` directory, or subdirectories within the `src` directory.
 
 # How do I compile/run my code
 
